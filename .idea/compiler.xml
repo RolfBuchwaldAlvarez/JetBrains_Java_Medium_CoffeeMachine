@@ -26,7 +26,10 @@
       <module name="MediumCoffeeMachine.Topics-Enums_in_Java-Hidden_enumeration.main" target="11" />
       <module name="MediumCoffeeMachine.Topics-Enums_in_Java-Reasons_to_use_enum.main" target="11" />
       <module name="MediumCoffeeMachine.Topics-Enums_in_Java-Theory.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Fields_and_methods_in_enum-Balance_management.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Fields_and_methods_in_enum-Danger_levels.main" target="11" />
       <module name="MediumCoffeeMachine.Topics-Fields_and_methods_in_enum-Robot_control.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Fields_and_methods_in_enum-System_of_units.main" target="11" />
       <module name="MediumCoffeeMachine.Topics-Fields_and_methods_in_enum-Theory.main" target="11" />
       <module name="MediumCoffeeMachine.Topics-Instance_methods-Counter.main" target="11" />
       <module name="MediumCoffeeMachine.Topics-Instance_methods-Theory.main" target="11" />
