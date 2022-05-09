@@ -26,6 +26,8 @@
       <module name="MediumCoffeeMachine.Topics-Enums_in_Java-Hidden_enumeration.main" target="11" />
       <module name="MediumCoffeeMachine.Topics-Enums_in_Java-Reasons_to_use_enum.main" target="11" />
       <module name="MediumCoffeeMachine.Topics-Enums_in_Java-Theory.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Fields_and_methods_in_enum-Robot_control.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Fields_and_methods_in_enum-Theory.main" target="11" />
       <module name="MediumCoffeeMachine.Topics-Instance_methods-Counter.main" target="11" />
       <module name="MediumCoffeeMachine.Topics-Instance_methods-Theory.main" target="11" />
       <module name="MediumCoffeeMachine.Topics-Switch_statement-A_simple_calculator.main" target="11" />
