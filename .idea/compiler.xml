@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="MediumCoffeeMachine.Coffee_Machine-task-build-classes-java.main" target="11" />
+      <module name="MediumCoffeeMachine.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="MediumCoffeeMachine.Coffee_Machine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="MediumCoffeeMachine.Coffee_Machine-task-build-reports-tests.main" target="11" />
+      <module name="MediumCoffeeMachine.Coffee_Machine-task-build-test-results.main" target="11" />
+      <module name="MediumCoffeeMachine.Coffee_Machine-task-build-tmp.main" target="11" />
+      <module name="MediumCoffeeMachine.Coffee_Machine-task.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Branching_statements-The_sequence.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Branching_statements-Theory.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Conditional_statement-Leap_year.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Conditional_statement-Theory.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Constructor-Geometric_cube.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Constructor-Theory.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Defining_classes-Correct_fields.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Defining_classes-Inner_boxes.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Defining_classes-Points.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Defining_classes-Points_on_the_2D_plane.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Defining_classes-Theory.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Enums_in_Java-Currencies.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Enums_in_Java-Days_of_week.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Enums_in_Java-Enum_with_two_constants.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Enums_in_Java-Hidden_enumeration.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Enums_in_Java-Reasons_to_use_enum.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Enums_in_Java-Theory.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Instance_methods-Counter.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Instance_methods-Theory.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Switch_statement-A_simple_calculator.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Switch_statement-Direction.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Switch_statement-From_string_to_a_number.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Switch_statement-Harry_Potter.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Switch_statement-Removing_breaks.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Switch_statement-Rewriting_code_using_switch.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-Switch_statement-Theory.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-The_main_method-Print__We_are_robots.main" target="11" />
+      <module name="MediumCoffeeMachine.Topics-The_main_method-Theory.main" target="11" />
+      <module name="MediumCoffeeMachine.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
